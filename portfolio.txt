@@ -1,0 +1,5 @@
+Stock Portfolio Summary
+------------------------
+GOOGL: 600 shares x $165 = $99000
+
+Total Investment: $99000
